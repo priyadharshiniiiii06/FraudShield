@@ -1,0 +1,23 @@
+# FraudShield
+
+## Project Title
+FraudShield – Fraud Detection and Prevention System
+
+## Description
+FraudShield is a web application developed using Python to detect and analyze fraudulent transactions.
+
+## Features
+- User Login
+- Fraud Detection
+- Transaction Analysis
+- Dataset Visualization
+- Risk Prediction
+
+## Technologies Used
+- Python
+- Flask
+- Pandas
+- Streamlit
+
+## Author
+Priyadharshini
